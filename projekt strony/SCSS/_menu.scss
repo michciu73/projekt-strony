@@ -1,0 +1,17 @@
+.menu-item {
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+.menu-item img {
+    width: 150px;
+    margin-right: 1rem;
+}
+
+.item-description {
+    flex: 1;
+}
+
+.item-description h3 {
+    margin-top: 0;
+}
